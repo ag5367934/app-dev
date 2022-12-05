@@ -1,7 +1,3 @@
-# app-dev
-
-Favorite Movie
-
 - The Transporter
 I need to highlight these ==Never change the deal, No names, Never open the package.==.
 
@@ -16,5 +12,4 @@ I need to highlight these ==Never change the deal, No names, Never open the pack
   "age": 11
 }
 ```
-
 

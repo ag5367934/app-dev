@@ -6,7 +6,7 @@ Favorite Movie
 I need to highlight these ==Never change the deal, No names, Never open the package.==.
 
 - G.I Joe
-: U.S. armed forces;
+: U.S. armed forces.
 
 - Real Steel
 ```
@@ -17,4 +17,4 @@ I need to highlight these ==Never change the deal, No names, Never open the pack
 }
 ```
 
-~~Time is Gold.~~
+
